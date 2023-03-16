@@ -15,7 +15,7 @@
 @import url("fonts.css");
 
 /***** Global *****/
-html {filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); -webkit-filter: grayscale(100%); }
+/*html {filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); -webkit-filter: grayscale(100%); }*/
 /* Body */
 body {
     background: #F5F4EF;

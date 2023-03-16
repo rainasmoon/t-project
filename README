@@ -1,2 +1,17 @@
+通过淘宝关键词生成购物网站。
+
+根据rst生成网站：
 pelican content
+
+启动：
 pelican --listen
+http://localhost:8000/
+
+配置文件： pelicanconf.py
+
+关键词： keyword.txt
+
+生成rst文件：
+python3 tb_api.py
+
+生成的静态网站： output/

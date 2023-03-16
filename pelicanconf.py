@@ -35,7 +35,7 @@ DEFAULT_PAGINATION = False
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 PLUGIN_PATHS = ['/home/hht/git/pelican-plugins']
-PLUGINS = ['i18n_subsites',]
+PLUGINS = []
 
 THEME = 'themes/notmyidea' 
 
